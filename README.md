@@ -46,11 +46,11 @@ Requirements:
 ● Implement custom hooks for form validation and management.
 ● Ensure a clean and user-friendly interface with clear error messages.
 
-Screenshots: 
+# Screenshots: 
 ![Screenshot (680)](https://github.com/sachindolase/job-application-form/assets/125812863/3e2f4d78-a75a-419b-99b9-b97477b80a67)
 ![Screenshot (681)](https://github.com/sachindolase/job-application-form/assets/125812863/d55431a3-b33a-416f-bdef-bf4dc4a053da)
 
-Live Demo :- https://job-application-form-one.vercel.app/
+# Live Demo :- https://job-application-form-one.vercel.app/
 
 
 
